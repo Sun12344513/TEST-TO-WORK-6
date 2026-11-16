@@ -1,0 +1,17 @@
+{
+  "name": "moon-studio-discord-bot",
+  "version": "1.0.0",
+  "description": "Standalone Discord Bot for Moon Studio Cloud VPS, Machine Management, and Admin Test Mode",
+  "private": true,
+  "type": "module",
+  "main": "index.js",
+  "engines": {
+    "node": ">=18.0.0"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "discord.js": "^14.28.1"
+  }
+}
